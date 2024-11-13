@@ -53,7 +53,10 @@ $\rightarrow$ Es begann mit Corona
 :::
 
 ::: {.column width="50%"}
-![](https://i.scdn.co/image/ab6765630000ba8acc03737573a5aeac34f776c4)
+<picture>
+  <source srcset="https://i.scdn.co/image/ab6765630000ba8acc03737573a5aeac34f776c4" type="image/jpeg">
+  <img src="https://i.scdn.co/image/ab6765630000ba8acc03737573a5aeac34f776c4">
+</picture>
 :::
 
 Podcast ist ein sehr viel leichtgewichtigeres Medium<br> als ein Video
