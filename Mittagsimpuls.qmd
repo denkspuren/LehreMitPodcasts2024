@@ -1,0 +1,353 @@
+---
+title: "Hochschullehre mit Podcasts"
+subtitle: "Ein Medium mit ganz eigenen Qualitäten"
+author: "Prof. Dr. Dr. Dominikus Herzberg"
+institute: "THM/MNI"
+format:
+    revealjs:
+        logo: https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png
+        theme: white
+        slideNumber: true
+        footer: "Mittagsimpuls, 14. Nov. 2024"
+---
+
+# Mittagsimpuls: Agenda
+
+* Meine "Expertise"
+* Was ist ein Podcast
+* Herzbergs Hörsaal
+* Meine Grundsätze
+* Meine Erfahrungen
+* Bonusmaterial 😊
+
+Folienlink: [https://denkspuren.github.io/LehreMitPodcasts2024/](https://denkspuren.github.io/LehreMitPodcasts2024/)
+
+## Meine "Expertise" 🔩
+
+* [Webmontag](https://de.wikipedia.org/wiki/Webmontag) Gießen (2017-2019) (nicht mehr abrufbar)
+* [Masters of Higher Education](https://open.spotify.com/show/2buKQ22ylJymALnsoePvTc) (6/2020 - 11/2021)
+* [Radio Cölbe](https://open.spotify.com/show/4PfQUOQFiQOwJGWZgXJxCw) (6/2020 - ...)
+* [Herzbergs Hörsaal](https://open.spotify.com/show/5FDlXkn4fnAgp2ucaT7hL6) (4/2020 - ...)
+* [YouTube videos](https://www.youtube.com/@DominikusHerzberg) in Ergänzung zu Herzbergs Hörsaal
+
+## Was ist ein Podcast?
+
+Technisch: Audio-Dateien zum Download + eine RSS-Datei
+
+Ein Podcast deckt alles ab, was als Audio-Datei hörbar ist. In der Regel dominiert die gesprochene Sprache, aber er kann auch Musik, Geräusche oder klangliche Erlebnisse enthalten. Es gibt eine Überschneidung mit Audioformaten, die man im Radio hört. Alles, was man im Radio hört, kann auch als Podcast veröffentlicht werden. Die Abgrenzung zu Hörbüchern und Hörspielen ist ebenso unscharf.
+
+> Inwiefern unterscheidet sich ein Podcast von einem Radioprogramm 📻? Was meinen Sie?
+
+## Herzbergs Hörsaal
+
+:::: {.columns}
+
+::: {.column width="50%"}
+$\rightarrow$ Es begann mit Corona
+
+* Über's Studium
+* Lehre (mit Folien)
+* Lehre (ohne Folien)
+* Gespräche mit AutorInnen
+* Gespräche mit KollegInnen
+:::
+
+::: {.column width="50%"}
+![](HerzbergsHo%CC%88rsaal.jpg)
+:::
+
+Podcast ist ein sehr viel leichtgewichtigeres Medium<br> als ein Video
+::::
+
+## Meine Grundsätze 
+
+* Record -- Upload -- Done
+* Manchmal: Record -- Pause -- Record ... -- Upload -- Done
+* Kein Postprocessing (kein Schneiden, Bereinigen)
+* Kein Skript (durchaus Notizen/Folien als Vorlage)
+* Im Dunkeln: Ich rede über das, was Du nicht siehst<br>$\rightarrow$ eine erfrischend neue didaktische Perspektive
+* Kein Vortrag: Führe eine Konversation, denke laut
+* Podcasttreue: es darf lang und ausführlich sein
+* Perfektionismus: Wozu? Ist kein Eigenzweck!
+
+## Meine Erfahrungen
+
+* Klappt das: Informatik als Podcast? Ja!
+* Das Selbstgespräch verschwindet, wenn man sich selbst vergisst
+* Podcast hat großes Potenzial, aus der eigenen Wissenschaft zu erzählen und Inneneinblicke zu gewähren
+* Podcast hat seine Eigenlogik als didaktisches Medium: Statt ein Zeigen im Video, ein Erzählen mit der Stimme
+* Deine Stimme im Ohr des Anderen: Intimität und Beziehung
+* Abspielgeschwindigkeit: 1,3- oder 1,5-fach
+* Podcast ist sozial ohne Social Media
+
+# Auszüge aus Workshop<br> [Sommerschool<br> HoBid 2023](https://www.uni-paderborn.de/veranstaltung/dritte-summer-school-hochschulbildungsforschung-hobid-3-rueckt-wissenschaftskommunikation-in-den-fokus-2)
+
+* Eine Einstiegsübung zum Podcasting
+* Beispielarten von Podcastepisoden
+* Wissen zur Podcastproduktion
+* Gerätschaften, Software, Dienste
+
+## 1st Exercise ⌛ 5 min, 🧑
+
+**Give your students a study tip**
+
+* Topic: Flashcards (or choose another topic) 
+* Assignment: Prepare your podcast episode
+
+What do you want to tell?
+
+<br>
+<center>Don't google anything!</center>
+
+## 1st Exercise (My Prep)
+
+* What is a flashcard? Why useful?
+* The Science of forgetting and refreshing memories: active recall
+* How to use?
+* How to extract knowledge from a book or lecture and how to transform it into a flashcard
+* Front: Question, Back: Answer
+* Tools: analog, digital, experiences, recommendation
+
+## 1st Exercise: The Problem
+
+That's ok, but that's standard, you might find such an episode elsewhere, most likely on YouTube. It's a missed opportunity!
+
+- What does your topic have to do ...
+  - ... with you?
+  - ... with your science?
+  - ... with your courses?
+
+Make it relateable, personal, applicable in a domain, you and your potential listeners share!
+
+# Exemplary Kinds of Podcast Episodes
+
+## Record for Lectures 👩‍🏫
+
+Didactical challenge: Explain what others can't see (code, figures, diagrams, bullet lists, structure of your lecture); remember listeners don't see
+
+* Prepare drawings, mindmaps, notes, ... don't script
+* Remember: You talk to or with someone
+
+Your listeners may have a walk, ride the bike, do some house cleaning or gardening, are in a car or in a park. 
+
+> How do you help listeners stay with you?
+
+## Interviews 🎙️
+
+Scenario 1: Provide the questions in advance, edit the recording
+
+Scenario 2: Be prepared, have an idea where you might head to, know your first question, ... let it flow
+
+* Always introduce your guest
+* If remote: video helps for coordination
+* Always have some questions prepared in advance
+* Learn to practice to think aloud
+
+Example: LectureCast Episode 68 [edited](https://podcasters.spotify.com/pod/show/macromedia0/episodes/LectureCast--Episode-68-PodCast-als-Lern--und-Fortbildungsmedium-e27aao9/a-aa5l2r7), [unedited](https://podcasters.spotify.com/pod/show/dominikusherzberg/episodes/Zu-Besuch-beim-LectureCast-Podcasts-im-Hochschulkontext-e26qc35)
+
+## Study tips 📚, Recommendations 🧐, Insights 🧠
+
+* Prepare a little bit, take some notes
+* Just talk into the mic
+* Learn to practice to think aloud
+* Don't mind associative speaking
+* Do it in segments: Record, Stop/Pause, Record, ...
+* Remember: It's a conversation
+
+## Having a Co-Host or a Guest 💁
+
+* Wonderful, it's social right from the start
+* Learn to practice to think aloud
+* Don't mind associative speaking
+* Allow yourself to jump onto anything that might be interesting
+
+> Think about a recording a lecture with a student as a guest
+
+## Work with (royality free) Music 🎶
+
+It sets a tone, creates an atmosphere, eases 
+
+* Intro
+* to separate segments
+* Outro
+* Background (not recommended)
+
+## Remember:
+### Conversations are imperfect but interesting
+
+* Do you need to have a "result", a message, a coherent story?
+
+* Do you need to be a "perfect" speaker?
+
+<center><h3>
+no, it's a podcast
+</h3></center>
+
+* It is about storytelling (wary of storyselling)
+* More importantly: it's a conversation someone listens to
+
+> Practice to think aloud, practice associative thinking
+
+# How do I Produce a Podcast Episode
+
+## My Production Mindset ⏺⏹⏵
+
+* Prepare
+* Record ⏺
+* Stop ⏹
+* Upload
+* Distribute ⏵
+
+My role model for this mindset is [Jörn Loviscach](https://j3l7h.de/)
+
+## Ignition ✨
+
+* There is a lecture to prepare
+* Something happened in class
+* I read a book and would like to talk to the author
+* I met an interesting person
+* I feel an urge to communicate something
+* I reflected on my research, teaching, studying, ...
+* I think I need to adress something to my students
+* ...
+
+## Prepare 🔨 + 📓
+
+* Work through a book
+* Prepare the lecture
+* Make notes (dictate) while walking the dog
+* Scribble down some points
+* ... or don't prepare at all
+
+## Go for it 🗣
+
+* Talk into the mic
+* Talk to or with someone
+
+Either you have
+
+* a guest or a co-host
+* or you imagine talking to a person
+
+## Where do you get your inspiration and ideas from? 💡
+
+### You need something to talk about!
+
+Discuss, introduce, explain, analyze, criticize, ...
+
+* Books or articles or news from your field
+* Ideas that float around on social media
+
+### Invite others
+
+* Authors, researchers, students, practitioners, ...
+
+# Basic Knowledge and Setups
+
+* Microphone, Setup, Platform
+
+## Microphones
+
+* USB vs. XLR (amateur or professional or both)
+* dynamic vs. condensor (sensitivity: room treatment or not)
+* stationary or mobile (handling noise)
+
+## Speaking Technique
+
+* Close to the mic<br>
+  (proximity effect, best for untreated rooms, little ambient noise, if at all, depends on mic characteristic)
+* Use a pop filter or speak a little bit to the side
+* Ähm/Um ... (thinking pause) reduced use can be trained;<br>if not overused: no one cares
+
+## Basic Decision: Audio Interface or all-in-one Solution
+
+* control vs. spontaneity
+* pre- vs. postprocessing
+* perfectionism vs. GTD
+
+## Audio Recording and Editing Software
+
+* [Adobe Audition](https://www.adobe.com/de/products/audition.html)
+* [Audacity](https://www.audacityteam.org/), [Tenacity](https://tenacityaudio.org/) (fork)
+* Apple GarageBand for MacOS, iOS
+
+## Overview
+
+5 Recording setups you can start with
+
+## Setup: Computer only + 🎤(🎤)
+
+* Røde PodMic USB (240€) - dynamic mic with built-in preprocessor, comes with pop filter, also has XLR
+* Tripod or Table Stand (30-50€) or Studio Arm (140€)
+* Over Ear Headphones (~40€)
+
+Free Software: Røde Connect (recording) with sounds/music, Røde Central (PodMic USB configuration)
+
+## Setup: RØDECaster 🎤 - 🎤🎤🎤🎤
+ 
+* RØDECaster Duo (1-2 persons) (~550€)<br>
+  RØDECaster Pro II (1-4 persons) (~700€)
+* Røde PodMic (100€) - dynamic mic, XLR
+* XLR cable (10€)
+* Pop filter (10€)
+* Table Stand (30€) or Studio Arm (140€)
+* Over-ear Headphones (~40€)
+* SSD memory card (10€)
+
+## Setup: Audio Interface 🎤 - 🎤🎤(🎤🎤)
+
+Cheap: No pre-processing (quality still fine), post-processing (optional)
+
+* Audio Interface (Solo, Duo)
+* Microphone
+* Mic Stand
+
+## Setup: Field Recorder 🎤 - 🎤🎤, 🌤️
+
+No pre-processing, post-processing required
+
+* Field Recorder Zoom F3 (32-bit float, mobile solution)
+* XLR microphone, e.g. Røde Reporter (140€)
+
+## Setup: Smartphone + AI 🎤
+
+* Use a recording app on your smartphone
+* Upload file to [Adobe Podcast AI](https://podcast.adobe.com/enhance) for post-processing
+
+## Where to get your Equipment from?
+
+* [Amazon](https://www.amazon.de/)
+* [Thomann](https://www.thomann.de/)
+* [Music Store](https://www.musicstore.de/)
+
+## Platform
+
+* Spotify for Creators<br>
+  [https://creators.spotify.com/](https://creators.spotify.com/), formerly [https://anchor.fm](https://anchor.fm)
+* Interesting potential candidate: [https://podcast.adobe.com/](https://podcast.adobe.com/)
+* Internet search: "podcast hosting" (mostly paid hosting)
+
+Services: upload, hosting and distribution, simple editing, adding music/sounds, analytics (in case you care)
+
+## Talk with a remote partner
+
+* [Zoom](https://zoom.us/)
+* [Riverside](https://riverside.fm/) (limited free use)
+* [Studio-Link](https://www.studio-link.de/) (for techies)
+* Phone call (e.g. with RØDECaster devices)
+
+Instruct guests before recording (prepare a standard email or a document with everything your guest should know)
+
+## Literature {.smaller}
+
+Herzberg, D. (2024). Podcasten als wissenschaftsdidaktische Laborumgebung. In: G. Reinmann, R. Rhein (Hrsg.), Wissenschaftsdidaktik IV, S. 231-250. Bielefeld: [transcript](https://doi.org/10.14361/9783839462973-013).
+
+Cook, I. M. (2023). Scholarly Podcasting: Why, What, How? [Routledge](https://www.routledge.com/Scholarly-Podcasting-Why-What-How/Cook/p/book/9780367439446). 
+
+Klenk, M. (2020). Sprechendes Denken: Essays zu einer experimentellen Kulturwissenschaft. Bielefeld: [transcript](https://www.transcript-verlag.de/978-3-8376-5262-8). ^[Tim Pritlove talks with Moritz Klenk about "Sprechendes Denken" in [CRE220 Sprechendes Denken](https://cre.fm/cre220-sprechendes-denken).]
+
+Drew, C. (2017). Educational podcasts: A  genre analysis. _E-Learning and Digital Media_, 14(4), p. 201–211. [https://doi.org/10.1177/2042753017736177](https://doi.org/10.1177/2042753017736177)
+
+::: aside
+This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). The source code of the slides is available [here](https://github.com/denkspuren/LehreMitPodcasts2024).
+:::
