@@ -53,7 +53,7 @@ $\rightarrow$ Es begann mit Corona
 :::
 
 ::: {.column width="50%"}
-![](HerzbergsHo%CC%88rsaal.jpg)
+![](./HerzbergsHoersaal.jpg)
 :::
 
 Podcast ist ein sehr viel leichtgewichtigeres Medium<br> als ein Video
