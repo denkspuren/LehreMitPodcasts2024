@@ -50,6 +50,8 @@ $\rightarrow$ Es begann mit Corona
 * Lehre (ohne Folien)
 * Gespräche mit AutorInnen
 * Gespräche mit KollegInnen
+
+$\rightarrow$ Podcast vs. Video
 :::
 
 ::: {.column width="50%"}
@@ -59,7 +61,6 @@ $\rightarrow$ Es begann mit Corona
 </picture>
 :::
 
-Podcast ist ein sehr viel leichtgewichtigeres Medium<br> als ein Video
 ::::
 
 ## Meine Grundsätze 
@@ -70,7 +71,7 @@ Podcast ist ein sehr viel leichtgewichtigeres Medium<br> als ein Video
 * Kein Skript (durchaus Notizen/Folien als Vorlage)
 * Im Dunkeln: Ich rede über das, was Du nicht siehst<br>$\rightarrow$ eine erfrischend neue didaktische Perspektive
 * Kein Vortrag: Führe eine Konversation, denke laut
-* Podcasttreue: es darf lang und ausführlich sein
+<!-- * Podcasttreue: es darf lang und ausführlich sein -->
 * Perfektionismus: Wozu? Ist kein Eigenzweck!
 
 ## Meine Erfahrungen
@@ -80,7 +81,7 @@ Podcast ist ein sehr viel leichtgewichtigeres Medium<br> als ein Video
 * Podcast hat großes Potenzial, aus der eigenen Wissenschaft zu erzählen und Inneneinblicke zu gewähren
 * Podcast hat seine Eigenlogik als didaktisches Medium: Statt ein Zeigen im Video, ein Erzählen mit der Stimme
 * Deine Stimme im Ohr des Anderen: Intimität und Beziehung
-* Abspielgeschwindigkeit: 1,3- oder 1,5-fach
+<!-- * Abspielgeschwindigkeit: 1,3- oder 1,5-fach -->
 * Podcast ist sozial ohne Social Media
 
 # Auszüge aus Workshop<br> [Sommerschool<br> HoBid 2023](https://www.uni-paderborn.de/veranstaltung/dritte-summer-school-hochschulbildungsforschung-hobid-3-rueckt-wissenschaftskommunikation-in-den-fokus-2)
